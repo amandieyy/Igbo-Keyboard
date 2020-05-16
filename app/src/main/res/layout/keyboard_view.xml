@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<igbokey.igwe.amanda.CustomKeyboardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#E8E8E8"
+    android:keyTextColor="#000"
+    android:keyBackground="@drawable/custom_key_color"
+    android:keyPreviewLayout="@layout/key_preview"
+    android:popupLayout="@layout/popup_layout"
+    android:layout_alignParentBottom="true">
+
+</igbokey.igwe.amanda.CustomKeyboardView>
