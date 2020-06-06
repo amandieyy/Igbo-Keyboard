@@ -1,4 +1,4 @@
-# Igbo-Keyboard
+# Android  Igbo Keyboard
 
 Using Android Studio SDK
 
@@ -6,7 +6,7 @@ Using Android Studio SDK
 
 Download https://developer.android.com/studio
 Clone this repository locally.
-Install and open the project folder
+Install and open the project folder.
 Then build.
 
 # For Questions 
